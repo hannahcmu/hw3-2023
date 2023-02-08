@@ -22,11 +22,12 @@ nav ul li{
 nav a{
     /* Set text decoration*/
     text-decoration: none;
+   color:#000000;
 }
 
 a:visited{
     /* Set color */
-    color:black;
+    color:#000000;
 
 }
 
@@ -80,7 +81,7 @@ h1, h2, h3{
 }
 
 .grid div{
-    border: 5px solid black;
+    border: 5px solid color:#000000;;
     border-radius: 15px;
     padding: 15px;
     background-color: bisque;
